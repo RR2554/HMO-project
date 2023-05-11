@@ -1,0 +1,34 @@
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Dal.deps.json
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Dal.dll
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Dal.pdb
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\DTO.dll
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Entity.dll
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\DTO.pdb
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Entity.pdb
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.dll
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\refint\Dal.dll
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.pdb
+C:\Users\T450\Desktop\הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\ref\Dal.dll
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Dal.deps.json
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Dal.dll
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Dal.pdb
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\DTO.dll
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Entity.dll
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\DTO.pdb
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\bin\Debug\net6.0\Entity.pdb
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.dll
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\refint\Dal.dll
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\Dal.pdb
+C:\Users\T450\Desktop\פרויקט הדסים\c#\WebAPI\Dal\obj\Debug\net6.0\ref\Dal.dll
