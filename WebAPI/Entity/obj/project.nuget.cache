@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kkpCWQn1QIoqbwjwWMb7J0Nc3ykN1Gp/fDNlHu9wSG03J5V/YGRKEGy2+3tj4Hc9cch6C4+DXq/9FYrZ7CfKBw==",
+  "dgSpecHash": "x+uRTp1WLqzJRDeK0c/TLYSi13HLsBR1oBFGCfRBS8v1jYlSEm0H0UoOg71aIV1fgXz8GWBr8JYqhGrYB0K+TQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\Entity.csproj",
+  "projectFilePath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T450\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\T450\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

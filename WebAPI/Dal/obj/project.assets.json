@@ -3265,11 +3265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Dal\\Dal.csproj",
+      "projectUniqueName": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Dal\\Dal.csproj",
       "projectName": "Dal",
-      "projectPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Dal\\Dal.csproj",
+      "projectPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Dal\\Dal.csproj",
       "packagesPath": "C:\\Users\\T450\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Dal\\obj\\",
+      "outputPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\T450\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3286,11 +3286,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\DTO\\DTO.csproj"
+            "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\DTO\\DTO.csproj"
             },
-            "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\Entity.csproj"
+            "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\Entity.csproj"
             }
           }
         }

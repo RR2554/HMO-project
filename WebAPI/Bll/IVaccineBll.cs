@@ -17,7 +17,7 @@ namespace Bll
         void addVaccine(VaccineDto vaccine);
         void AddVaccineToMember(string identity, VaccineDto vaccine);
 
-        //void AddVaccineToMember(string memberId, VaccineDto vaccine);
+     
 
     }
 }

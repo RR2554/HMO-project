@@ -41,9 +41,6 @@ namespace Bll
             vaccineDal.AddVaccineToMember(identity,mapper.Map<Vaccine>(vaccine));
         }
 
-        //public void AddVaccineToMember(string memberId, VaccineDto vaccine)
-        // {
-        //     vaccineDal.AddVaccineToMember(mapper.Map<Vaccine>(vaccine));
-        // }
+        
     }
 }

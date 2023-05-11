@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace webAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/Vaccine")]
     [ApiController]
     public class VaccineController : ControllerBase
     {
@@ -17,12 +17,7 @@ namespace webAPI.Controllers
             this.vaccineBll = vaccineBll; 
             this.memberBll=memberBll;
     }
-            // GET: api/<VaccineController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
+           
 
         // GET api/<VaccineController>/5
         [HttpGet("{id}")]

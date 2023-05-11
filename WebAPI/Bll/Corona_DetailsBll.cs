@@ -42,10 +42,6 @@ namespace Bll
         }
 
 
-      
-
-
-
         public Corona_DetailsDto getCoronabyMemberId(string id)
         {
             return mapper.Map<Corona_DetailsDto>(corona_DetailsDal.getCoronabyMemberId(id));

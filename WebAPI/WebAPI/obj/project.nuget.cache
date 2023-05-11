@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U38N0Mxrq+F39ECVWjANe1haRCjjYa1pg5gz2HWHMd+F8UDxQU4AtjqIcCVZB+VKpewou6Ve8lLlT5HWxDtrXw==",
+  "dgSpecHash": "jvSukzMgR/uXfS3XnPexfGsDso8W7EMSX01RLBRxkMV9B8HYmClDb99tVLW0PwwbHf3ZfmlOx+Yo+qB69Vlu+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T450\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\T450\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -7,7 +7,7 @@ using System.Linq.Expressions;
 
 namespace webAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/corona")]
     [ApiController]
     public class CoronaController : ControllerBase
     {
@@ -38,12 +38,7 @@ namespace webAPI.Controllers
             this.corona_DetailsBll.AddCoronaToMember(identity, value);
             return Ok();
         }
-        // GET: api/<CoronaController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
+        
 
         // GET api/<CoronaController>/5
         [HttpGet("{id}")]

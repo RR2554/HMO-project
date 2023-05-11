@@ -3828,11 +3828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\T450\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\T450\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3849,17 +3849,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Bll\\Bll.csproj": {
-              "projectPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Bll\\Bll.csproj"
+            "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Bll\\Bll.csproj": {
+              "projectPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Bll\\Bll.csproj"
             },
-            "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Dal\\Dal.csproj": {
-              "projectPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Dal\\Dal.csproj"
+            "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Dal\\Dal.csproj": {
+              "projectPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Dal\\Dal.csproj"
             },
-            "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\DTO\\DTO.csproj"
+            "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\DTO\\DTO.csproj"
             },
-            "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\Entity.csproj"
+            "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\Entity.csproj"
             }
           }
         }

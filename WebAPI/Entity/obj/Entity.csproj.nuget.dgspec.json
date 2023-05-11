@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\Entity.csproj": {}
+    "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\Entity.csproj": {
+    "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\T450\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T450\\AppData\\Roaming\\NuGet\\NuGet.Config",

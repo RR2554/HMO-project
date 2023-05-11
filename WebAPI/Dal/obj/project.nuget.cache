@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HtOGGW09GNyNFK/ySG+1r+VTGSX1xu/AJRgO8GHwVMIlv+DEB7dswDT7TUyqhtoFSKcHqD/BKgzV8gwBuJyf6Q==",
+  "dgSpecHash": "g/rOGLXzWXhnfSyNTiIFgYkwaq3AvSOWdBxPuo9szDtQlM7Vq22mZtDKc0TRjac0zsTHXGG/C73NLrkUARM7dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T450\\Desktop\\פרויקט הדסים\\c#\\WebAPI\\Dal\\Dal.csproj",
+  "projectFilePath": "C:\\Users\\T450\\Desktop\\Hadasim-project\\WebAPI\\Dal\\Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T450\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\T450\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
