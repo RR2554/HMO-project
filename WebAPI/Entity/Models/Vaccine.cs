@@ -16,7 +16,7 @@ namespace Entity.Models
 
         public string vaccine_manufacturer { get; set; }
 
-        public string memberIdentity { get; set; }
+        public string? memberIdentity { get; set; }
 
         public long? memberId { get; set; }
 

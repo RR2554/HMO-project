@@ -27,8 +27,10 @@ namespace Dal
 
         public Member getMemberbyId(string id)
         {
-
-            return db.Members.First<Member>(x => x.tz == id);
+            var m= db.Members.FirstOrDefault<Member>(x => x.tz == id);
+            if (m != null)
+                return m;
+            else { throw new Exception("the member  does not exist "); }
         }
 
 
